@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6500651a7ecec57721d473fe844661d3",
+    "revision": "8b412470cb32a11f2e7607057727bf5f",
     "url": "/udemy-react/index.html"
   },
   {
-    "revision": "d95ab3e4b1da25970db9",
-    "url": "/udemy-react/static/css/main.0fe01bfe.chunk.css"
+    "revision": "fb6723ee5eb5d9b34540",
+    "url": "/udemy-react/static/css/main.590baa3b.chunk.css"
   },
   {
-    "revision": "6a221aa2d1effe686644",
-    "url": "/udemy-react/static/js/2.c1d92622.chunk.js"
+    "revision": "d2b77306f0e1b216a0c0",
+    "url": "/udemy-react/static/js/2.d7ae10ca.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/udemy-react/static/js/2.c1d92622.chunk.js.LICENSE.txt"
+    "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
+    "url": "/udemy-react/static/js/2.d7ae10ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d95ab3e4b1da25970db9",
-    "url": "/udemy-react/static/js/main.305b1b70.chunk.js"
+    "revision": "fb6723ee5eb5d9b34540",
+    "url": "/udemy-react/static/js/main.41dcdc0d.chunk.js"
   },
   {
     "revision": "0b50a4ff1dccb9adcefa",
